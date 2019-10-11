@@ -6,3 +6,4 @@ Purpose of this project was to get my hands on:
 - Livedata
 - AndroidViewModel
 - Recycler view
+- Material design
