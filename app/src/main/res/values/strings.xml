@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleTodoList</string>
+    <string name="action_settings">Settings</string>
+    <string name="todo_delete">Delete todo item</string>
+    <string name="todo_default_title">Title</string>
+    <string name="todo_default_description">Description</string>
+</resources>
